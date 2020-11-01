@@ -1,0 +1,37 @@
+body{
+	margin:0;
+	background-image: url(img/back1.png);
+}
+header{
+	text-align:center;
+	/*background:red;*/
+	padding:50px;
+	color:white;
+}
+header h1{
+	font-family: 'Henny Penny', cursive;
+	font-size:100px;
+}
+header img{
+	width :500px;
+	border-radius:800px;
+}
+main{
+	text-align:center;
+	color:white;
+	padding:50px;
+}
+main img{
+	width:500px;
+}
+main p{
+	background: #5d882ba3;
+    line-height: 30px;
+    font-family: 'David Libre', serif;
+
+}
+main h2{
+	  color:Tomato;
+	  font-size:50px;
+	  font-family: 'Henny Penny', cursive;
+}
