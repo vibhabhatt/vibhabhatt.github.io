@@ -4,8 +4,6 @@ body{
 }
 header{
 	text-align:center;
-	background:red;
-	padding:30px;
 	color:white;
 }
 header h1{
@@ -13,9 +11,9 @@ header h1{
 	font-size:100px;
 }
 header img{
-	width :500px;
-	border-radius:800px;
+	width:100%;
 }
+
 main{
 	text-align:center;
 	color:white;
@@ -25,7 +23,8 @@ main img{
 	width:500px;
 }
 main p{
-	background: #5d882ba3;
+	color:black;
+	font-size:30px;
     line-height: 30px;
     font-family: 'David Libre', serif;
 
@@ -34,4 +33,9 @@ main h2{
 	  color:Tomato;
 	  font-size:50px;
 	  font-family: 'Henny Penny', cursive;
+}
+footer{
+	background: yellow;
+    padding: 50px;
+    text-align: center;
 }
