@@ -1,11 +1,11 @@
 body{
 	margin:0;
-	background-image: url(img/back1.png);
+	/*background-image: url(img/back1.png);*/
 }
 header{
 	text-align:center;
-	/*background:red;*/
-	padding:50px;
+	background:red;
+	padding:30px;
 	color:white;
 }
 header h1{
